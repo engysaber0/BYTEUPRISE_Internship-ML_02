@@ -1,2 +1,2 @@
 # BYTEUPRISE_Internship-ML_02
-Build a model that analyzes factors such as genre, director, and actors using regression techniques to tackle the problem. Rating Prediction project provides an opportunity to delve 
+Build a model that analyzes factors such as genre, director, and actors using regression techniques to tackle the problem. Rating Prediction project provides an opportunity to delve  into data analysis, preprocessing, feature engineering, and machine learning modeling techniques. By exploring the factors that impact movie ratings, you can construct a reliable model that accurately estimates the rating of a movie.
