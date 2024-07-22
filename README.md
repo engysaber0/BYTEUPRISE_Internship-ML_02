@@ -5,12 +5,24 @@ STEPS OF TASK:.............................
 Data Loading and Preprocessing:
 
 Loading the dataset
+
+
 Handling missing values
+
+
 Encoding categorical variables
+
+
 Normalizing numerical features
+
+
 Data Splitting:
 
+
 Train-test split
+
+
+
 Feature Engineering:
 
 Feature creation
